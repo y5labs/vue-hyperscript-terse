@@ -2,6 +2,8 @@
 
 Enhance Vue's built in 'createElement' or 'h' function with automatic detection of ids and classes. Defaults to div when the element name is not provided.
 
+For use with [Vue Render Functions](https://vuejs.org/guide/render-function).
+
 ```js
 import hyperscript from 'vue-hyperscript-terse'
 
